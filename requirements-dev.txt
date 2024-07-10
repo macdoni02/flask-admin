@@ -22,3 +22,4 @@ azure-storage-blob
 arrow<0.14.0
 colour
 email-validator
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
